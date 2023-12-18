@@ -6,7 +6,7 @@ Tengo conocimiento de usuario en Cisco y en la suite ofimática
 de Office 365. Mi objetivo se centra en trabajar en el área de redes.
 
 ## Formación
-### 2020 ESO
+### 2016 ESO
 INS, Francisco de Goya, Barcelona
 
 ### 2022 - Actualidad, FPGM Sistemas Microinformáticos y Redes
@@ -34,4 +34,4 @@ bien el tiempo.
 |:---:|   :---:|
 |Castellano | Nivel Alto|
 |Catalán| Nivel Alto|
-|Inglés| Nivel Medio|
+|Inglés| Nivel Bajo|
