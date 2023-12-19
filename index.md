@@ -1,4 +1,4 @@
-<img src="https://github.com/iBrohl/ibrohl.github.io/blob/main/imagen_2022-04-25_221644148.png](https://github.com/RonickMedina/RonickMedina.github.io/blob/main/CV.jpg">
+<img src="https://github.com/RonickMedina/RonickMedina.github.io/blob/main/CV.jpg">
 
 # **Ronick Medina Silva**
 ## Objetivo Profesional
