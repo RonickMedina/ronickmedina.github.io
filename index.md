@@ -1,4 +1,4 @@
-<img src="https://github.com/RonickMedina/RonickMedina.github.io/blob/main/CV.jpg">
+<img src="CV.jpg">
 
 # **Ronick Medina Silva**
 ## Objetivo Profesional
